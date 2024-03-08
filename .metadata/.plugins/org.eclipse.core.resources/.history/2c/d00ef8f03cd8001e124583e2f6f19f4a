@@ -1,0 +1,5 @@
+package com.oddy.demo.web;
+
+public class HelloController {
+
+}

@@ -1,0 +1,5 @@
+package com.oddy.TestApplication.domain;
+
+public class User {
+
+}

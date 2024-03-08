@@ -1,0 +1,5 @@
+package com.oddy.TestApplication.web;
+
+public class UserController {
+
+}
